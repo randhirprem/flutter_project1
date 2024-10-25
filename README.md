@@ -1,7 +1,10 @@
 # adv_basics
 
 A new Flutter project.
+The following project is that of a sample quiz app.
+It uses google fonts and can work on both android and ios.
 
+The creator of this app is me Randhir Prem.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
